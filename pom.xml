@@ -4,7 +4,7 @@
   <groupId>de.benjaminschatz.mvntestapp</groupId>
   <artifactId>mvntestapp</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>mvntestapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
